@@ -1,0 +1,61 @@
+Poštovani,
+u okviru zadatka pod nazivom RSII :: Seminarski radovi (2017-2019)
+možete izvršiti prijavu tema najkasnije do 15.05.2019. godine
+(isti zadatak koriste i studenti u statusu apsolvenata i imatrikulanta).
+Studenti koji su već prethodno prijavili i dobili odobrenje teme nisu dužni ponovo postavljati
+prijavu.
+Prilikom postavljanja rada na sistem, te prije kompresovanja sadržaja rada, foldere pod nazivom "bin" i "obj" je potrebno obrisati, tako da ce kompresovana datoteka biti dosta manja.
+
+
+
+Postovane kolege studenti,
+U toku su prijave tema seminarskih radova, a vec nekima je tema odobrena. Svi oni koji su prijavili temu, neka pogledaju zadnji moj odgovor. Nakon odobrenja teme, te nakom završetka implementacije, potrebno je predati rad na sistem.
+Prilikom predaje rada potrebno je voditi racuna o sljedećem:
+- svi "bin" i "obj" folderi kao i sav sadržaj u njima trebate obrisati prija kompesovanja datoteke. Razlog zašto su vam veliki seminarski radovi jeste zbog toga sto nepotrebno pakujete i te foldere.
+- obrisati sadržaj ali ne i package folder gdje se nalaze NuGet paketi.
+- UWP projekat ukoliko nema nikakve implementacije potrebno ga je obrisati, sve sto je prazno treba biti uklonjeno s projekta.
+- Drži te se uputa iz dokumenta, a posebno o bazi podataka koja mora biti napunjena nekim podacima, s kojim treba da se testira funkionalnost.folder baze podataka mora sadržavati ldf i mdf datoteke. Kod nekih se mor baza skinuti sa servera prije kompresije, jer nece biti kompresovana ispravno, a onda imam problem da ne mogu nakaciti bazu ba SQL server.
+- Takodjer prijava na mobilnu i desktop aplikaciju mora biti sa username i pasword kako je to napisano u dokumentu.
+S postovanjem
+dr. sc. Bahrudin Hrnjica
+
+
+Poštovane kolege studenti,
+u vezi tema seminarskog rada potrebno je imati na umu sljedeće:
+- teme koje su odobrene za rad, vrijede i dalje i nje potrebno prijavljivati temu ponovo,
+- zbog različitosti verzija .NET Frameworka i Visual Studia, - potrebno je seminarske radove predavati nakon sto se testiraju na Visual Studio 2019 i .NET Framework 4.8, ili .NET Core 2.2
+- seminarski rad prije predaje je potrebno "očistiti" bin i obj foldere, a package folder ukoliko postoji u projektu isprazniti. Zatim kompresovati rad kako je napisano u uputi za pisanje rada.
+- Kompresiju isklučivo raditi pomoću zip, ne koristiti "rar" kompresiju.
+- rad se može poslati i tako što ga postavite na  GitHub repozitorij i posaljete git putanju.
+- Prijave tema i slanje radove će se raditi do 1. jula. Poslije tog termina, teme niti radovi nece se moći predavati.
+- Rad kad se preda, evaluaciju rada izvršit ce kolega Amel Mušić, te vas obavistiti o ishodu vaseg rada, odnosno o ispravkamo ako bude rad nekompletan.
+- Jednom kada vam je rad evaluiran, zakazat će se odbrana rada i praktični ispit kod mene. Znači odbrana i praktični ispit će se raditi istovremeno u jednom terminu.
+LP
+
+
+
+
+
+ Poštovane kolege studenti,
+
+u vezi tema seminarskog rada potrebno je imati na umu sljedeće:
+
+- teme koje su odobrene za rad, vrijede i dalje i nje potrebno prijavljivati temu ponovo,
+
+- zbog različitosti verzija .NET Frameworka i Visual Studia, - potrebno je seminarske radove predavati nakon sto se testiraju na Visual Studio 2019 i .NET Framework 4.8, ili .NET Core 2.2
+
+- seminarski rad prije predaje je potrebno "očistiti" bin i obj foldere, a package folder ukoliko postoji u projektu isprazniti. Zatim kompresovati rad kako je napisano u uputi za pisanje rada.
+
+- Kompresiju isklučivo raditi pomoću zip, ne koristiti "rar" kompresiju.
+
+- rad se može poslati i tako što ga postavite na  GitHub repozitorij i posaljete git putanju.
+
+- Prijave tema i slanje radove će se raditi do 1. jula. Poslije tog termina, teme niti radovi nece se moći predavati.
+
+- Rad kad se preda, evaluaciju rada izvršit ce kolega Amel Mušić, te vas obavistiti o ishodu vaseg rada, odnosno o ispravkamo ako bude rad nekompletan.
+
+- Jednom kada vam je rad evaluiran, zakazat će se odbrana rada i praktični ispit kod mene. Znači odbrana i praktični ispit će se raditi istovremeno u jednom terminu.
+
+- Teorijski dio ispita iz predmeta se moze polagati nezavisno od seminarskog rada (ne treba uvjet da ste predali seminarski rad).
+
+LP

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.PrikazKoPolazePage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:PrikazKoPolazeVM>
+            
+        </ViewModels:PrikazKoPolazeVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <StackLayout>
+            <!--<Button Text="Nazad" VerticalOptions="Start" Command="{Binding nazadCommand}"></Button>-->
+            <DatePicker MinimumDate="1.1.2000." Date="{Binding DatumOD}"></DatePicker>
+            <DatePicker MinimumDate="1.1.2000." Date="{Binding DatumDO}"></DatePicker>
+            <Picker Title="Kurs" ItemsSource="{Binding listaKurseva}" SelectedIndexChanged="Picker_SelectedIndexChanged_1"  ItemDisplayBinding="{Binding Naziv}"></Picker>
+            <Button Text="Traži" Command="{Binding Trazi}"></Button>
+            <Label HeightRequest="1" BackgroundColor="Black"></Label>
+            <Grid>
+                <Label HorizontalOptions="Start" Padding="5" FontSize="15" TextColor="Black" Text="Ime"></Label>
+                <Label HorizontalOptions="Center" FontSize="15" TextColor="Black" Text="Prezime"></Label>
+                <Label HorizontalOptions="End" Padding="5" FontSize="15" TextColor="Black" Text="Ocjena"></Label>
+            </Grid>
+                <ListView ItemsSource="{Binding Lista}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid>
+                                    <Label HorizontalOptions="Start" Padding="5" Text="{Binding Ime}"></Label>
+                                    <Label HorizontalOptions="Center" Text="{Binding Prezime}"></Label>
+                                    <Label HorizontalOptions="End" Padding="5" Text="{Binding Ocjena}"></Label>
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

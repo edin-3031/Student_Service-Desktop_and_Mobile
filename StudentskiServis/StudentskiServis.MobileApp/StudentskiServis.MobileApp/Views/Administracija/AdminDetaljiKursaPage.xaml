@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.Views.Administracija"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Administracija.AdminDetaljiKursaPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:AdminDetaljiKursaVM>
+            
+        </ViewModels:AdminDetaljiKursaVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Text="Nazad" BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Command="{Binding NazadCommand}"></Button>
+
+                <Label BackgroundColor="LightGray" Text="Naziv"></Label>
+                <Label Text="{Binding Naziv}"></Label>
+                
+                <Label BackgroundColor="LightGray" Text="ECTS bodovi"></Label>
+                <Label Text="{Binding ECTS}"></Label>
+
+                <Grid Padding="0">
+                    <Label Padding="35" Text="Posjeduje seminarski rad"></Label>
+                    <CheckBox IsChecked="{Binding Seminarski}"></CheckBox>
+                </Grid>
+
+                <Grid Padding="0">
+                    <Label Padding="35" Text="Posjeduje praktični rad"></Label>
+                    <CheckBox IsChecked="{Binding Praksa}"></CheckBox>
+                </Grid>
+
+                <Button Text="Ukloni" TextColor="White" BackgroundColor="PaleVioletRed" Command="{Binding UkloniCommand}" VerticalOptions="EndAndExpand"></Button>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

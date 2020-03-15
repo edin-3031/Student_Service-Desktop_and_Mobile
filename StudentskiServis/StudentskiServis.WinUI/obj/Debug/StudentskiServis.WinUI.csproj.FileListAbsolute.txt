@@ -1,0 +1,680 @@
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe.config
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.pdb
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Owin.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.pdb
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csprojAssemblyReference.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiAdmin.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiStudent.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaIzmjenaAdmin.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaUnosAdmin.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaPrikaz.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaci.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaciIzmjena.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPrikazAdministracijeStudent.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPromjenaŠifre.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmAdmin.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmIndex.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmProf.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmStud.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDetaljiIspita.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDodajIspit.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiDetaljiStudent.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiPrikazStudent.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIzmijeniIspit.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmPrikazIspita.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmDetaljiKurs.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursDodaj.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursIzmijeni.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursPrikaz.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Login.frmLogin.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDetaljiObavijesti.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDodajObavijest.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmIzmjenaObavijesti.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavijest.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaDetaljiStudent.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaStudent.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmDodajPredavanja.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmNoviProfesor.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjaDetalji.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjeIzmjena.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPrikazProfesoraStudent.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetalji.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiAdmin.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiStudent.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaci.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaciIzmjena.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorPrikazAdmin.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPromjenaSifre.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.ProfesorIzmjenaAdmin.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Properties.Resources.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRaspored.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedDodaj.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedIzmjena.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.MojRasporedDetalji.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDetaljiStudenta.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDodajPohadjanja.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmIzmjenaStudenta.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojaUplataDetalji.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojeUplate.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiKursevi.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaci.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaciIzmjena.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmNoviStudent.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPohadjanjaIzmijeni.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPromijeniSifru.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetalji.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetaljiAdmin.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentPrikaz.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmDetaljiUplata.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmIzmjenaUplata.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmNovaUplata.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmPrikazUplata.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmUplantnica.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.GenerateResource.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.CopyComplete
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.exe
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe.config
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Owin.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csprojAssemblyReference.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiAdmin.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiStudent.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaIzmjenaAdmin.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaUnosAdmin.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaPrikaz.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaci.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaciIzmjena.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPrikazAdministracijeStudent.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPromjenaŠifre.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmAdmin.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmIndex.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmProf.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmStud.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDetaljiIspita.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDodajIspit.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiDetaljiStudent.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiPrikazStudent.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIzmijeniIspit.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmPrikazIspita.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmDetaljiKurs.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursDodaj.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursIzmijeni.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursPrikaz.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Login.frmLogin.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDetaljiObavijesti.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDodajObavijest.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmIzmjenaObavijesti.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavijest.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaDetaljiStudent.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaStudent.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmDodajPredavanja.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmNoviProfesor.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjaDetalji.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjeIzmjena.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPrikazProfesoraStudent.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetalji.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiAdmin.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiStudent.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaci.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaciIzmjena.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorPrikazAdmin.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPromjenaSifre.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.ProfesorIzmjenaAdmin.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Properties.Resources.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRaspored.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedDodaj.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedIzmjena.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.MojRasporedDetalji.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDetaljiStudenta.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDodajPohadjanja.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmIzmjenaStudenta.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojaUplataDetalji.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojeUplate.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiKursevi.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaci.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaciIzmjena.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmNoviStudent.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPohadjanjaIzmijeni.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPromijeniSifru.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetalji.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetaljiAdmin.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentPrikaz.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmDetaljiUplata.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmIzmjenaUplata.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmNovaUplata.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmPrikazUplata.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmUplantnica.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.GenerateResource.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.CopyComplete
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.exe
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe.config
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Owin.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csprojAssemblyReference.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiAdmin.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiStudent.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaIzmjenaAdmin.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaUnosAdmin.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaPrikaz.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaci.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaciIzmjena.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPrikazAdministracijeStudent.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPromjenaŠifre.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmAdmin.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmIndex.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmProf.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmStud.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDetaljiIspita.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDodajIspit.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiDetaljiStudent.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiPrikazStudent.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIzmijeniIspit.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmPrikazIspita.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmDetaljiKurs.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursDodaj.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursIzmijeni.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursPrikaz.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Login.frmLogin.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDetaljiObavijesti.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDodajObavijest.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmIzmjenaObavijesti.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavijest.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaDetaljiStudent.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaStudent.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmDodajPredavanja.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmNoviProfesor.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjaDetalji.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjeIzmjena.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPrikazProfesoraStudent.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetalji.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiAdmin.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiStudent.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaci.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaciIzmjena.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorPrikazAdmin.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPromjenaSifre.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.ProfesorIzmjenaAdmin.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Properties.Resources.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRaspored.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedDodaj.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedIzmjena.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.MojRasporedDetalji.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDetaljiStudenta.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDodajPohadjanja.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmIzmjenaStudenta.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojaUplataDetalji.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojeUplate.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiKursevi.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaci.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaciIzmjena.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmNoviStudent.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPohadjanjaIzmijeni.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPromijeniSifru.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetalji.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetaljiAdmin.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentPrikaz.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmDetaljiUplata.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmIzmjenaUplata.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmNovaUplata.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmPrikazUplata.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmUplantnica.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.GenerateResource.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.CopyComplete
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.exe
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe.config
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Owin.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csprojAssemblyReference.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiAdmin.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiStudent.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaIzmjenaAdmin.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaUnosAdmin.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaPrikaz.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaci.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaciIzmjena.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPrikazAdministracijeStudent.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPromjenaŠifre.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmAdmin.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmIndex.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmProf.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmStud.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDetaljiIspita.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDodajIspit.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiDetaljiStudent.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiPrikazStudent.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIzmijeniIspit.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmPrikazIspita.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmDetaljiKurs.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursDodaj.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursIzmijeni.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursPrikaz.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Login.frmLogin.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDetaljiObavijesti.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDodajObavijest.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmIzmjenaObavijesti.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavijest.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaDetaljiStudent.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaStudent.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmDodajPredavanja.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmNoviProfesor.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjaDetalji.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjeIzmjena.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPrikazProfesoraStudent.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetalji.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiAdmin.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiStudent.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaci.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaciIzmjena.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorPrikazAdmin.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPromjenaSifre.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.ProfesorIzmjenaAdmin.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Properties.Resources.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRaspored.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedDodaj.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedIzmjena.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.MojRasporedDetalji.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDetaljiStudenta.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDodajPohadjanja.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmIzmjenaStudenta.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojaUplataDetalji.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojeUplate.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiKursevi.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaci.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaciIzmjena.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmNoviStudent.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPohadjanjaIzmijeni.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPromijeniSifru.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetalji.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetaljiAdmin.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentPrikaz.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmDetaljiUplata.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmIzmjenaUplata.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmNovaUplata.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmPrikazUplata.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmUplantnica.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.GenerateResource.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.CopyComplete
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.exe
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe.config
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.exe
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.WinUI.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Owin.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\StudentskiServis.Models.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Flurl.Http.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Microsoft.Owin.Security.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\Newtonsoft.Json.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Buffers.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Collections.Immutable.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Memory.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Numerics.Vectors.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csprojAssemblyReference.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiAdmin.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaDetaljiStudent.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaIzmjenaAdmin.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaUnosAdmin.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdministracijaPrikaz.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaci.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmAdminMojiPodaciIzmjena.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPrikazAdministracijeStudent.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Administracija.frmPromjenaŠifre.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmAdmin.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmIndex.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmProf.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.frmStud.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDetaljiIspita.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmDodajIspit.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiDetaljiStudent.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIspitiPrikazStudent.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmIzmijeniIspit.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Ispit.frmPrikazIspita.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmDetaljiKurs.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursDodaj.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursIzmijeni.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Kurs.frmKursPrikaz.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Login.frmLogin.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDetaljiObavijesti.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmDodajObavijest.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmIzmjenaObavijesti.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavijest.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaDetaljiStudent.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Obavijest.frmObavjestenjaStudent.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmDodajPredavanja.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmNoviProfesor.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjaDetalji.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPredavanjeIzmjena.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPrikazProfesoraStudent.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetalji.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiAdmin.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorDetaljiStudent.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaci.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorMojiPodaciIzmjena.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmProfesorPrikazAdmin.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.frmPromjenaSifre.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Profesor.ProfesorIzmjenaAdmin.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Properties.Resources.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRaspored.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedDodaj.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.frmMojRasporedIzmjena.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Raspored.MojRasporedDetalji.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDetaljiStudenta.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmDodajPohadjanja.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmIzmjenaStudenta.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojaUplataDetalji.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojeUplate.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiKursevi.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaci.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmMojiPodaciIzmjena.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmNoviStudent.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPohadjanjaIzmijeni.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmPromijeniSifru.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetalji.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentDetaljiAdmin.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Student.frmStudentPrikaz.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmDetaljiUplata.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmIzmjenaUplata.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmNovaUplata.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmPrikazUplata.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.Uplata.frmUplantnica.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.GenerateResource.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.csproj.CopyComplete
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.exe
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WinUI\obj\Debug\StudentskiServis.WinUI.pdb

@@ -1,0 +1,329 @@
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.deps.json
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csprojAssemblyReference.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.Properties.Resources.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.GenerateResource.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiAdministracijaPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiKursaPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiProfesorPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiStudentPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiUplatePage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajAdministracijuPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajKursPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajProfesoraPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajStudentaPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajUplatuPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciIzmjenaPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazAdministracijePage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazKursevaPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazProfesoraPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazStudenataPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazUplataPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AuthPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitDodajProfPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitIzmjenaProf.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciProfPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciUrediProf.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestDodajProf.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiDetaljiProf.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestIzmijeniProf.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ProfPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplateDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplatePrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiispitiDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiIspitiPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciIzmjenaPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiIzmijeniPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\StudPage.xaml.g.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfoInputs.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfo.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.CopyComplete
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csprojAssemblyReference.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.Properties.Resources.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.GenerateResource.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiAdministracijaPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiKursaPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiProfesorPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiStudentPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiUplatePage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajAdministracijuPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajKursPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajProfesoraPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajStudentaPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajUplatuPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciIzmjenaPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazAdministracijePage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazKursevaPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazProfesoraPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazStudenataPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazUplataPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AuthPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitDodajProfPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitIzmjenaProf.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciProfPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciUrediProf.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestDodajProf.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiDetaljiProf.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestIzmijeniProf.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ProfPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplateDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplatePrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiispitiDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiIspitiPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciIzmjenaPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiIzmijeniPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfDetaljiPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfPrikazPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\StudPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfoInputs.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfo.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.deps.json
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.CopyComplete
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\KoPohadjaPage.xaml.g.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\PrikazKoPolazePage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.deps.json
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csprojAssemblyReference.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.Properties.Resources.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.GenerateResource.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiAdministracijaPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiKursaPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiProfesorPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiStudentPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiUplatePage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajAdministracijuPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajKursPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajProfesoraPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajStudentaPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajUplatuPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciIzmjenaPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazAdministracijePage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazKursevaPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazProfesoraPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazStudenataPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazUplataPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AuthPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitDodajProfPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitIzmjenaProf.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\KoPohadjaPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciProfPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciUrediProf.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestDodajProf.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiDetaljiProf.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestIzmijeniProf.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\PrikazKoPolazePage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ProfPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminDetaljiPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminPrikazPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplateDetaljiPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplatePrikazPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiispitiDetaljiPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiIspitiPrikazPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciIzmjenaPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciPrikazPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiIzmijeniPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedPrikazPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiDetaljiPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfDetaljiPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfPrikazPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\StudPage.xaml.g.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfoInputs.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfo.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.CopyComplete
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.deps.json
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csprojAssemblyReference.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.Properties.Resources.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.GenerateResource.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiAdministracijaPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiKursaPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiProfesorPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiStudentPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiUplatePage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajAdministracijuPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajKursPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajProfesoraPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajStudentaPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajUplatuPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciIzmjenaPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazAdministracijePage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazKursevaPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazProfesoraPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazStudenataPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazUplataPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AuthPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitDodajProfPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitIzmjenaProf.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\KoPohadjaPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciProfPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciUrediProf.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestDodajProf.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiDetaljiProf.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestIzmijeniProf.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\PrikazKoPolazePage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ProfPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminDetaljiPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminPrikazPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplateDetaljiPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplatePrikazPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiispitiDetaljiPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiIspitiPrikazPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciIzmjenaPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciPrikazPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiIzmijeniPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedPrikazPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiDetaljiPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfDetaljiPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfPrikazPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\StudPage.xaml.g.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfoInputs.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfo.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.CopyComplete
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.deps.json
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csprojAssemblyReference.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.Properties.Resources.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.GenerateResource.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiAdministracijaPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiKursaPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiProfesorPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiStudentPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDetaljiUplatePage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajAdministracijuPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajKursPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajProfesoraPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajStudentaPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminDodajUplatuPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciIzmjenaPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminMojiPodaciPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazAdministracijePage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazKursevaPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazProfesoraPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazStudenataPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Administracija\AdminPrikazUplataPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\AuthPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitDodajProfPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\IspitIzmjenaProf.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\KoPohadjaPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciProfPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\MojiPodaciUrediProf.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestDodajProf.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiDetaljiProf.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestIzmijeniProf.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\PrikazKoPolazePage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\ProfPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminDetaljiPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudAdminPrikazPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplateDetaljiPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojeUplatePrikazPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiispitiDetaljiPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiIspitiPrikazPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciIzmjenaPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojiPodaciPrikazPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiIzmijeniPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedDetaljiPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudMojRasporedPrikazPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiDetaljiPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudObavijestiPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfDetaljiPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\Student\StudProfPrikazPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\Views\StudPage.xaml.g.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfoInputs.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.AssemblyInfo.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.csproj.CopyComplete
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\ref\StudentskiServis.MobileApp.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\obj\Debug\netstandard2.0\StudentskiServis.MobileApp.pdb

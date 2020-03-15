@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.ObavijestIzmijeniProf">
+    <ContentPage.BindingContext>
+        <ViewModels:ObavijestIzmijeniProfVM>
+            
+        </ViewModels:ObavijestIzmijeniProfVM>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <ScrollView Padding="5">
+            <StackLayout>
+                <Button BackgroundColor="LightGoldenrodYellow" Text="Nazad" Command="{Binding NazadCommand}" HorizontalOptions="Start"></Button>
+                <Label Text="Naslov"></Label>
+                <Entry Text="{Binding Naslov}"></Entry>
+                <Label Text="Datum objave"></Label>
+                <DatePicker MinimumDate="1.1.2000." Date="{Binding Datum}"></DatePicker>
+                <Picker Title="Objavio" ItemsSource="{Binding lista}" SelectedItem="{Binding Izabrani}" ItemDisplayBinding="{Binding Ime}"></Picker>
+                <Label Text="Sadržaj"></Label>
+                <Editor Text="{Binding Sadrzaj}"></Editor>
+                <Button BackgroundColor="LightGreen" Text="Izmijeni" Command="{Binding IzmijeniCommand}"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

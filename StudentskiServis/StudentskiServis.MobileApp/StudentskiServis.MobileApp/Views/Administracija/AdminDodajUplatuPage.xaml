@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Administracija"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Administracija.AdminDodajUplatuPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:AdminDodajUplatuVM>
+
+        </ViewModels:AdminDodajUplatuVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Text="Nazad" BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Command="{Binding NazadCommand}"></Button>
+
+                <Label Text="Iznos"></Label>
+                <Entry Text="{Binding Iznos}"></Entry>
+                
+                <Label Text="Svrha"></Label>
+                <Entry Text="{Binding Svrha}"></Entry>
+
+                <Grid Padding="10">
+                    <Label Padding="25" Text="Ovjereno"></Label>
+                    <CheckBox CheckedChanged="CheckBox_CheckedChanged"></CheckBox>
+                </Grid>
+
+                <Label Text="Datum uplate"></Label>
+                <DatePicker Date="{Binding Datum}"></DatePicker>
+
+                <Picker Title="Uplatio" ItemsSource="{Binding listaSTUD}" SelectedItem="{Binding IzbaraniSTUD}" ItemDisplayBinding="{Binding Ime}"></Picker>
+
+                <Picker Title="Evidentirao" ItemsSource="{Binding listaADMIN}" SelectedItem="{Binding IzbaraniADMIN}" ItemDisplayBinding="{Binding Ime}"></Picker>
+
+                <Button Text="Snimi" Command="{Binding SnimiCommand}" BackgroundColor="LightGreen"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.MojiPodaciProfPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:MojiPodaciProfVM>
+        </ViewModels:MojiPodaciProfVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout Padding="5">
+                <Grid>
+            <Button BackgroundColor="LightGoldenrodYellow" VerticalOptions="Start" HorizontalOptions="Start" Padding="10" Text="Nazad" Command="{Binding NazadCommand}"></Button>
+            <Button BackgroundColor="LightBlue" Text="Uredi" Command="{Binding UrediCommand}" HorizontalOptions="End"></Button>
+                    
+                </Grid>
+            <Image HeightRequest="250" WidthRequest="250" Source="{Binding _slika}"></Image>
+            <Label BackgroundColor="LightGray" FontSize="17" Text="Ime"></Label>
+            <Label TextColor="Black" FontSize="20" Text="{Binding _ime}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Prezime"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _prezime}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Zvanje"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _zvanje}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="E-Mail"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _mail}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Kancelarija"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _kancelarija}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Vrsta ugovora"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _vrstaUgovora}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Datum rođenja"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _datumRodjenja}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Datum zaposlenja"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _datumZaposlenja}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Korisničko ime"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _korisnickoIme}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Adresa"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _adresa}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Spol"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _spol}"></Label>
+            <Label BackgroundColor="LightGray" FontSize="17"  Text="Staž"></Label>
+            <Label TextColor="Black" FontSize="20"  Text="{Binding _staz}"></Label>
+
+            
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

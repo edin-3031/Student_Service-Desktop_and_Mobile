@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Student"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Student.StudMojeUplateDetaljiPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:StudMojeUplateDetaljiVM>
+
+        </ViewModels:StudMojeUplateDetaljiVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button HorizontalOptions="Start" Text="Nazad" BackgroundColor="LightGoldenrodYellow" Command="{Binding NazadCmd}"></Button>
+                <Label Text="Svrha" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Svrha}"></Label>
+                <Label Text="Iznos" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Iznos}"></Label>
+                <Label Text="Datum uplate" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Datum}"></Label>
+                <Label Text="Evidentirao" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Evidentirao}"></Label>
+                <Grid>
+                    <CheckBox HorizontalOptions="Fill" IsChecked="{Binding Ovjereno}"></CheckBox>
+                    <Label Padding="35" HorizontalOptions="Fill" Text="Ovjereno"></Label>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

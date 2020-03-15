@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Administracija"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Administracija.AdminPrikazStudenataPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:AdminPrikazStudenataVM>
+            
+        </ViewModels:AdminPrikazStudenataVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Text="Nazad" BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Command="{Binding NazadCommand}"></Button>
+                <ListView HeightRequest="600" ItemsSource="{Binding listaStudenata}" ItemSelected="ListView_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label HeightRequest="2" BackgroundColor="Black"></Label>
+                                    <Grid>
+                                        <Label HorizontalOptions="Start" Text="Ime"></Label>
+                                        <Label HorizontalOptions="Center" TextColor="Black" FontSize="20" Text="{Binding Ime}"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label HorizontalOptions="Start" Text="Prezime"></Label>
+                                        <Label HorizontalOptions="Center" TextColor="Black" FontSize="20" Text="{Binding Prezime}"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label HorizontalOptions="Start" Text="Indeks"></Label>
+                                        <Label HorizontalOptions="Center" TextColor="Black" FontSize="20" Text="{Binding Indeks}"></Label>
+                                    </Grid>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <Button Text="Dodaj" BackgroundColor="LightGreen" Command="{Binding DodajCommand}"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

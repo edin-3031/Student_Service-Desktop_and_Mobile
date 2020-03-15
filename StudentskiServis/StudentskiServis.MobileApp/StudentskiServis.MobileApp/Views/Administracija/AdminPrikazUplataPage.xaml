@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Administracija"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Administracija.AdminPrikazUplataPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:AdminPrikazUplataVM>
+            
+        </ViewModels:AdminPrikazUplataVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Text="Nazad" BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Command="{Binding NazadCommand}"></Button>
+                <ListView ItemsSource="{Binding listaUplata}" HeightRequest="600" ItemSelected="ListView_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label HeightRequest="2" BackgroundColor="Black"></Label>
+                                    <Grid>
+                                        <Label HorizontalOptions="Start" Text="Svrha"></Label>
+                                        <Label HorizontalOptions="Center" FontSize="20" TextColor="Black" Text="{Binding Svrha}"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label HorizontalOptions="Start" Text="Datum uplate"></Label>
+                                        <Label HorizontalOptions="Center" FontSize="20" TextColor="Black" Text="{Binding DatumUplate}"></Label>
+                                    </Grid>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <Button Text="Dodaj" Command="{Binding DodajCommand}" BackgroundColor="LightGreen"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

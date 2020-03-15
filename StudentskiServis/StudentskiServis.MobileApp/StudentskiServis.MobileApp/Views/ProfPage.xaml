@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.ProfPage">
+    <ContentPage.BindingContext>
+        <ViewModels:ProfVM>
+            
+        </ViewModels:ProfVM>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout Padding="5">
+            <Label Text="Welcome Prof"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand" FontSize="50"  Padding="50"/>
+
+            <Button Padding="40" HorizontalOptions="Fill" VerticalOptions="Center" FontSize="25" Text="Moji podaci" Command="{Binding MojiPodaciCommand}"></Button>
+            <Button Padding="40" HorizontalOptions="Fill" VerticalOptions="Center" FontSize="25" Text="Dodaj ispit" Command="{Binding DodajIspitCommand}"></Button>
+            <Button Padding="40" HorizontalOptions="Fill" VerticalOptions="Center" FontSize="25" Text="Obavijesti" Command="{Binding PrikazObavijestiCommand}"></Button>
+            <Button Padding="40" HorizontalOptions="Fill" VerticalOptions="Center" FontSize="25" BackgroundColor="PaleVioletRed" TextColor="White" Text="Odjava" Command="{Binding OdjavaCommand}"></Button>
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

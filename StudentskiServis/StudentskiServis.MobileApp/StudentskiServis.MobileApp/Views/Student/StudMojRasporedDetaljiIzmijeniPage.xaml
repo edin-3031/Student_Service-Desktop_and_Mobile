@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Student"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Student.StudMojRasporedDetaljiIzmijeniPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:StudMojRasporedDetaljiIzmijeniVM>
+            
+        </ViewModels:StudMojRasporedDetaljiIzmijeniVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button HorizontalOptions="Start" BackgroundColor="LightGoldenrodYellow" Text="Nazad" Command="{Binding NazadCommand}"></Button>
+                
+                <Label Text="Naslov"></Label>
+                <Entry Text="{Binding Naslov}"></Entry>
+                
+                <Label Text="Datum"></Label>
+                <DatePicker Date="{Binding Datum}" MinimumDate="1.1.2000."></DatePicker>
+
+                <Grid>
+                    <Label VerticalOptions="Start" Padding="35" Text="Važno"></Label>
+                    <CheckBox IsChecked="{Binding Vazno}"></CheckBox>
+                </Grid>
+
+                <Label Text="Sadržaj"></Label>
+                <Editor Text="{Binding Opis}" HeightRequest="200">
+                    
+                </Editor>
+                <Button HorizontalOptions="FillAndExpand" Text="Snimi" Command="{Binding SnimiCommand}" BackgroundColor="LightGreen" ></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

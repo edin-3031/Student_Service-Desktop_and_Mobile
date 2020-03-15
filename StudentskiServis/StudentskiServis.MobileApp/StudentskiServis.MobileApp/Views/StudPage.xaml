@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.StudPage">
+    <ContentPage.BindingContext>
+        <ViewModels:StudVM>
+            
+        </ViewModels:StudVM>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Padding="5">
+            <Label Text="Welcome Stud"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="CenterAndExpand" FontSize="50"/>
+
+            <Button Command="{Binding Command_MojiPodaci}" Padding="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Text="Moji podaci"></Button>
+            <Button Command="{Binding Command_Obavijesti}" Padding="5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Text="Obavijesti"></Button>
+            <Button Command="{Binding Command_Ispiti}" Padding="5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Text="Ispiti"></Button>
+            <Button Command="{Binding Command_MojeUplate}" Padding="5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Text="Moje uplate"></Button>
+            <Button Command="{Binding Command_Mojraspored}" Padding="5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Text="Moj raspored"></Button>
+            <Button Command="{Binding Command_Administracija}" Padding="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Text="Administracija"></Button>
+            <Button Command="{Binding Command_Profesori}" Padding="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Text="Profesori"></Button>
+            <Button Command="{Binding CommandKoPohadja}" Text="Ko pohadja" Padding="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></Button>
+            <Button Command="{Binding Command_Odjava}" Padding="5" BackgroundColor="PaleVioletRed" TextColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Text="Odjava"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

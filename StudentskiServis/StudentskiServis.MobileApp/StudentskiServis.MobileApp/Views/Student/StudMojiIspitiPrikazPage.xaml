@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Student"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Student.StudMojiIspitiPrikazPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:StudMojiIspitiPrikazVM>
+            
+        </ViewModels:StudMojiIspitiPrikazVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button HorizontalOptions="Start" Command="{Binding NazadCommand}" Text="Nazad" BackgroundColor="LightGoldenrodYellow"></Button>
+                <ListView ItemsSource="{Binding lista}" ItemSelected="ListView_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label BackgroundColor="Black" HeightRequest="2"></Label>
+                                    <Grid>
+                                        <Label HorizontalOptions="Start" Text="Kurs"></Label>
+                                        <Label HorizontalOptions="Center" FontSize="20" TextColor="Black" Text="{Binding Kurs}"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label HorizontalOptions="Start"  Text="Datum"></Label>
+                                        <Label HorizontalOptions="Center" FontSize="20" Text="{Binding Datum}"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label HorizontalOptions="Start"  Text="Učionica"></Label>
+                                        <Label HorizontalOptions="Center" FontSize="20" Text="{Binding Ucionica}"></Label>
+                                    </Grid>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

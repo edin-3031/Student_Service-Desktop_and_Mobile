@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Student"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Student.StudObavijestiDetaljiPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:StudObavijestiDetaljiVM>
+            
+        </ViewModels:StudObavijestiDetaljiVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Command="{Binding NazadCommand}" HorizontalOptions="Start" BackgroundColor="LightGoldenrodYellow" Text="Nazad"></Button>
+                <Label BackgroundColor="LightGray" Text="Naslov"></Label>
+                <Label Text="{Binding Naslov}"></Label>
+                <Label BackgroundColor="LightGray" Text="Datum objave"></Label>
+                <Label Text="{Binding Datum}"></Label>
+                <Label BackgroundColor="LightGray" Text="Objavio"></Label>
+                <Label Text="{Binding Objavio}"></Label>
+                <Label BackgroundColor="LightGray" Text="Sadržaj"></Label>
+                <Label Text="{Binding Sadrzaj}"></Label>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

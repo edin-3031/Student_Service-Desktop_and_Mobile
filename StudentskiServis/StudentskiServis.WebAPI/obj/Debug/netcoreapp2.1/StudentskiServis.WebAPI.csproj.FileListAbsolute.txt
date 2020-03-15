@@ -1,0 +1,113 @@
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.deps.json
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.json
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.dev.json
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.pdb
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csprojAssemblyReference.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.Properties.Resources.resources
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.GenerateResource.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfo.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.CopyComplete
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.deps.json
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.json
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.dev.json
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csprojAssemblyReference.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.Properties.Resources.resources
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.GenerateResource.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfo.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.CopyComplete
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.MobileApp.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.MobileApp.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.deps.json
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.json
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.dev.json
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.MobileApp.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.MobileApp.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csprojAssemblyReference.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.Properties.Resources.resources
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.GenerateResource.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfoInputs.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfo.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorTargetAssemblyInfo.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.CopyComplete
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.deps.json
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.json
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.dev.json
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.MobileApp.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.MobileApp.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csprojAssemblyReference.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.Properties.Resources.resources
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.GenerateResource.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfoInputs.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfo.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorTargetAssemblyInfo.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.CopyComplete
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.deps.json
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.json
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.runtimeconfig.dev.json
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.MobileApp.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.MobileApp.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\bin\Debug\netcoreapp2.1\StudentskiServis.Models.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csprojAssemblyReference.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.Properties.Resources.resources
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.GenerateResource.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorAssemblyInfo.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfoInputs.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.AssemblyInfo.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.RazorTargetAssemblyInfo.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.csproj.CopyComplete
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.WebAPI\obj\Debug\netcoreapp2.1\StudentskiServis.WebAPI.pdb

@@ -1,0 +1,782 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F1FA049-4C8B-45AF-942C-8C5C9C443424}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>StudentskiServis.WinUI</RootNamespace>
+    <AssemblyName>StudentskiServis.WinUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Flurl, Version=2.8.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.2.8.2\lib\net40\Flurl.dll</HintPath>
+    </Reference>
+    <Reference Include="Flurl.Http, Version=2.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.Http.2.4.2\lib\net46\Flurl.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.Core, Version=2.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.SignalR.Core.2.4.1\lib\net45\Microsoft.AspNet.SignalR.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.1.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.HashCode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.HashCode.1.1.0\lib\net461\Microsoft.Bcl.HashCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.EntityFrameworkCore.3.1.0\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore.Abstractions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.EntityFrameworkCore.Abstractions.3.1.0\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Caching.Abstractions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Caching.Abstractions.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Caching.Memory, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Caching.Memory.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Abstractions.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Binder, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Binder.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.3.1.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.3.1.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.3.1.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.2.1.0\lib\net45\Microsoft.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.2.1.0\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f0ebd12fd5e55cc5, processorArchitecture=MSIL">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=1.2.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Immutable.1.7.0\lib\netstandard2.0\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.7.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.7.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.7.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administracija\frmAdministracijaDetaljiAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracija\frmAdministracijaDetaljiAdmin.Designer.cs">
+      <DependentUpon>frmAdministracijaDetaljiAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracija\frmAdministracijaDetaljiStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracija\frmAdministracijaDetaljiStudent.Designer.cs">
+      <DependentUpon>frmAdministracijaDetaljiStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracija\frmAdministracijaIzmjenaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracija\frmAdministracijaIzmjenaAdmin.Designer.cs">
+      <DependentUpon>frmAdministracijaIzmjenaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracija\frmAdministracijaUnosAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracija\frmAdministracijaUnosAdmin.Designer.cs">
+      <DependentUpon>frmAdministracijaUnosAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracija\frmAdministracijaPrikaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracija\frmAdministracijaPrikaz.Designer.cs">
+      <DependentUpon>frmAdministracijaPrikaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracija\frmAdminMojiPodaci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracija\frmAdminMojiPodaci.Designer.cs">
+      <DependentUpon>frmAdminMojiPodaci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracija\frmAdminMojiPodaciIzmjena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracija\frmAdminMojiPodaciIzmjena.Designer.cs">
+      <DependentUpon>frmAdminMojiPodaciIzmjena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracija\frmPrikazAdministracijeStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracija\frmPrikazAdministracijeStudent.Designer.cs">
+      <DependentUpon>frmPrikazAdministracijeStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracija\frmPromjenaŠifre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracija\frmPromjenaŠifre.Designer.cs">
+      <DependentUpon>frmPromjenaŠifre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="APIService.cs" />
+    <Compile Include="frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdmin.Designer.cs">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIndex.Designer.cs">
+      <DependentUpon>frmIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProf.Designer.cs">
+      <DependentUpon>frmProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStud.Designer.cs">
+      <DependentUpon>frmStud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ispit\frmDetaljiIspita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ispit\frmDetaljiIspita.Designer.cs">
+      <DependentUpon>frmDetaljiIspita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ispit\frmDodajIspit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ispit\frmDodajIspit.Designer.cs">
+      <DependentUpon>frmDodajIspit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ispit\frmIspitiDetaljiStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ispit\frmIspitiDetaljiStudent.Designer.cs">
+      <DependentUpon>frmIspitiDetaljiStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ispit\frmIspitiPrikazStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ispit\frmIspitiPrikazStudent.Designer.cs">
+      <DependentUpon>frmIspitiPrikazStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ispit\frmIzmijeniIspit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ispit\frmIzmijeniIspit.Designer.cs">
+      <DependentUpon>frmIzmijeniIspit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ispit\frmPrikazIspita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ispit\frmPrikazIspita.Designer.cs">
+      <DependentUpon>frmPrikazIspita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kurs\frmDetaljiKurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kurs\frmDetaljiKurs.Designer.cs">
+      <DependentUpon>frmDetaljiKurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kurs\frmKursDodaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kurs\frmKursDodaj.Designer.cs">
+      <DependentUpon>frmKursDodaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kurs\frmKursIzmijeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kurs\frmKursIzmijeni.Designer.cs">
+      <DependentUpon>frmKursIzmijeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kurs\frmKursPrikaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kurs\frmKursPrikaz.Designer.cs">
+      <DependentUpon>frmKursPrikaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obavijest\frmDetaljiObavijesti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obavijest\frmDetaljiObavijesti.Designer.cs">
+      <DependentUpon>frmDetaljiObavijesti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obavijest\frmDodajObavijest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obavijest\frmDodajObavijest.Designer.cs">
+      <DependentUpon>frmDodajObavijest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obavijest\frmIzmjenaObavijesti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obavijest\frmIzmjenaObavijesti.Designer.cs">
+      <DependentUpon>frmIzmjenaObavijesti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obavijest\frmObavijest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obavijest\frmObavijest.Designer.cs">
+      <DependentUpon>frmObavijest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obavijest\frmObavjestenjaDetaljiStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obavijest\frmObavjestenjaDetaljiStudent.Designer.cs">
+      <DependentUpon>frmObavjestenjaDetaljiStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obavijest\frmObavjestenjaStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obavijest\frmObavjestenjaStudent.Designer.cs">
+      <DependentUpon>frmObavjestenjaStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmDodajPredavanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmDodajPredavanja.Designer.cs">
+      <DependentUpon>frmDodajPredavanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmNoviProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmNoviProfesor.Designer.cs">
+      <DependentUpon>frmNoviProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmPredavanjaDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmPredavanjaDetalji.Designer.cs">
+      <DependentUpon>frmPredavanjaDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmPredavanjeIzmjena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmPredavanjeIzmjena.Designer.cs">
+      <DependentUpon>frmPredavanjeIzmjena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmPrikazProfesoraStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmPrikazProfesoraStudent.Designer.cs">
+      <DependentUpon>frmPrikazProfesoraStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorDetalji.Designer.cs">
+      <DependentUpon>frmProfesorDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorDetaljiAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorDetaljiAdmin.Designer.cs">
+      <DependentUpon>frmProfesorDetaljiAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorDetaljiStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorDetaljiStudent.Designer.cs">
+      <DependentUpon>frmProfesorDetaljiStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorMojiPodaci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorMojiPodaci.Designer.cs">
+      <DependentUpon>frmProfesorMojiPodaci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorMojiPodaciIzmjena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorMojiPodaciIzmjena.Designer.cs">
+      <DependentUpon>frmProfesorMojiPodaciIzmjena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorPrikazAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmProfesorPrikazAdmin.Designer.cs">
+      <DependentUpon>frmProfesorPrikazAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\frmPromjenaSifre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\frmPromjenaSifre.Designer.cs">
+      <DependentUpon>frmPromjenaSifre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesor\ProfesorIzmjenaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesor\ProfesorIzmjenaAdmin.Designer.cs">
+      <DependentUpon>ProfesorIzmjenaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Raspored\frmMojRaspored.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raspored\frmMojRaspored.Designer.cs">
+      <DependentUpon>frmMojRaspored.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Raspored\frmMojRasporedDodaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raspored\frmMojRasporedDodaj.Designer.cs">
+      <DependentUpon>frmMojRasporedDodaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Raspored\frmMojRasporedIzmjena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raspored\frmMojRasporedIzmjena.Designer.cs">
+      <DependentUpon>frmMojRasporedIzmjena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Raspored\MojRasporedDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raspored\MojRasporedDetalji.Designer.cs">
+      <DependentUpon>MojRasporedDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmDetaljiStudenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmDetaljiStudenta.Designer.cs">
+      <DependentUpon>frmDetaljiStudenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmDodajPohadjanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmDodajPohadjanja.Designer.cs">
+      <DependentUpon>frmDodajPohadjanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmIzmjenaStudenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmIzmjenaStudenta.Designer.cs">
+      <DependentUpon>frmIzmjenaStudenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmMojaUplataDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmMojaUplataDetalji.Designer.cs">
+      <DependentUpon>frmMojaUplataDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmMojeUplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmMojeUplate.Designer.cs">
+      <DependentUpon>frmMojeUplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmMojiKursevi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmMojiKursevi.Designer.cs">
+      <DependentUpon>frmMojiKursevi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmMojiPodaci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmMojiPodaci.Designer.cs">
+      <DependentUpon>frmMojiPodaci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmMojiPodaciIzmjena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmMojiPodaciIzmjena.Designer.cs">
+      <DependentUpon>frmMojiPodaciIzmjena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmNoviStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmNoviStudent.Designer.cs">
+      <DependentUpon>frmNoviStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmPohadjanjaIzmijeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmPohadjanjaIzmijeni.Designer.cs">
+      <DependentUpon>frmPohadjanjaIzmijeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmPromijeniSifru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmPromijeniSifru.Designer.cs">
+      <DependentUpon>frmPromijeniSifru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmStudentDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmStudentDetalji.Designer.cs">
+      <DependentUpon>frmStudentDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmStudentDetaljiAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmStudentDetaljiAdmin.Designer.cs">
+      <DependentUpon>frmStudentDetaljiAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frmStudentPrikaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frmStudentPrikaz.Designer.cs">
+      <DependentUpon>frmStudentPrikaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uplata\frmDetaljiUplata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uplata\frmDetaljiUplata.Designer.cs">
+      <DependentUpon>frmDetaljiUplata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uplata\frmIzmjenaUplata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uplata\frmIzmjenaUplata.Designer.cs">
+      <DependentUpon>frmIzmjenaUplata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uplata\frmNovaUplata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uplata\frmNovaUplata.Designer.cs">
+      <DependentUpon>frmNovaUplata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uplata\frmPrikazUplata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uplata\frmPrikazUplata.Designer.cs">
+      <DependentUpon>frmPrikazUplata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uplata\frmUplantnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uplata\frmUplantnica.Designer.cs">
+      <DependentUpon>frmUplantnica.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Administracija\frmAdministracijaDetaljiAdmin.resx">
+      <DependentUpon>frmAdministracijaDetaljiAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracija\frmAdministracijaDetaljiStudent.resx">
+      <DependentUpon>frmAdministracijaDetaljiStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracija\frmAdministracijaIzmjenaAdmin.resx">
+      <DependentUpon>frmAdministracijaIzmjenaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracija\frmAdministracijaUnosAdmin.resx">
+      <DependentUpon>frmAdministracijaUnosAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracija\frmAdministracijaPrikaz.resx">
+      <DependentUpon>frmAdministracijaPrikaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracija\frmAdminMojiPodaci.resx">
+      <DependentUpon>frmAdminMojiPodaci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracija\frmAdminMojiPodaciIzmjena.resx">
+      <DependentUpon>frmAdminMojiPodaciIzmjena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracija\frmPrikazAdministracijeStudent.resx">
+      <DependentUpon>frmPrikazAdministracijeStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracija\frmPromjenaŠifre.resx">
+      <DependentUpon>frmPromjenaŠifre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdmin.resx">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIndex.resx">
+      <DependentUpon>frmIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProf.resx">
+      <DependentUpon>frmProf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStud.resx">
+      <DependentUpon>frmStud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ispit\frmDetaljiIspita.resx">
+      <DependentUpon>frmDetaljiIspita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ispit\frmDodajIspit.resx">
+      <DependentUpon>frmDodajIspit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ispit\frmIspitiDetaljiStudent.resx">
+      <DependentUpon>frmIspitiDetaljiStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ispit\frmIspitiPrikazStudent.resx">
+      <DependentUpon>frmIspitiPrikazStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ispit\frmIzmijeniIspit.resx">
+      <DependentUpon>frmIzmijeniIspit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ispit\frmPrikazIspita.resx">
+      <DependentUpon>frmPrikazIspita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kurs\frmDetaljiKurs.resx">
+      <DependentUpon>frmDetaljiKurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kurs\frmKursDodaj.resx">
+      <DependentUpon>frmKursDodaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kurs\frmKursIzmijeni.resx">
+      <DependentUpon>frmKursIzmijeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kurs\frmKursPrikaz.resx">
+      <DependentUpon>frmKursPrikaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obavijest\frmDetaljiObavijesti.resx">
+      <DependentUpon>frmDetaljiObavijesti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obavijest\frmDodajObavijest.resx">
+      <DependentUpon>frmDodajObavijest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obavijest\frmIzmjenaObavijesti.resx">
+      <DependentUpon>frmIzmjenaObavijesti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obavijest\frmObavijest.resx">
+      <DependentUpon>frmObavijest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obavijest\frmObavjestenjaDetaljiStudent.resx">
+      <DependentUpon>frmObavjestenjaDetaljiStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obavijest\frmObavjestenjaStudent.resx">
+      <DependentUpon>frmObavjestenjaStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmDodajPredavanja.resx">
+      <DependentUpon>frmDodajPredavanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmNoviProfesor.resx">
+      <DependentUpon>frmNoviProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmPredavanjaDetalji.resx">
+      <DependentUpon>frmPredavanjaDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmPredavanjeIzmjena.resx">
+      <DependentUpon>frmPredavanjeIzmjena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmPrikazProfesoraStudent.resx">
+      <DependentUpon>frmPrikazProfesoraStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmProfesorDetalji.resx">
+      <DependentUpon>frmProfesorDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmProfesorDetaljiAdmin.resx">
+      <DependentUpon>frmProfesorDetaljiAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmProfesorDetaljiStudent.resx">
+      <DependentUpon>frmProfesorDetaljiStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmProfesorMojiPodaci.resx">
+      <DependentUpon>frmProfesorMojiPodaci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmProfesorMojiPodaciIzmjena.resx">
+      <DependentUpon>frmProfesorMojiPodaciIzmjena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmProfesorPrikazAdmin.resx">
+      <DependentUpon>frmProfesorPrikazAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\frmPromjenaSifre.resx">
+      <DependentUpon>frmPromjenaSifre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesor\ProfesorIzmjenaAdmin.resx">
+      <DependentUpon>ProfesorIzmjenaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Raspored\frmMojRaspored.resx">
+      <DependentUpon>frmMojRaspored.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Raspored\frmMojRasporedDodaj.resx">
+      <DependentUpon>frmMojRasporedDodaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Raspored\frmMojRasporedIzmjena.resx">
+      <DependentUpon>frmMojRasporedIzmjena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Raspored\MojRasporedDetalji.resx">
+      <DependentUpon>MojRasporedDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmDetaljiStudenta.resx">
+      <DependentUpon>frmDetaljiStudenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmDodajPohadjanja.resx">
+      <DependentUpon>frmDodajPohadjanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmIzmjenaStudenta.resx">
+      <DependentUpon>frmIzmjenaStudenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmMojaUplataDetalji.resx">
+      <DependentUpon>frmMojaUplataDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmMojeUplate.resx">
+      <DependentUpon>frmMojeUplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmMojiKursevi.resx">
+      <DependentUpon>frmMojiKursevi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmMojiPodaci.resx">
+      <DependentUpon>frmMojiPodaci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmMojiPodaciIzmjena.resx">
+      <DependentUpon>frmMojiPodaciIzmjena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmNoviStudent.resx">
+      <DependentUpon>frmNoviStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmPohadjanjaIzmijeni.resx">
+      <DependentUpon>frmPohadjanjaIzmijeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmPromijeniSifru.resx">
+      <DependentUpon>frmPromijeniSifru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmStudentDetalji.resx">
+      <DependentUpon>frmStudentDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmStudentDetaljiAdmin.resx">
+      <DependentUpon>frmStudentDetaljiAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frmStudentPrikaz.resx">
+      <DependentUpon>frmStudentPrikaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uplata\frmDetaljiUplata.resx">
+      <DependentUpon>frmDetaljiUplata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uplata\frmIzmjenaUplata.resx">
+      <DependentUpon>frmIzmjenaUplata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uplata\frmNovaUplata.resx">
+      <DependentUpon>frmNovaUplata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uplata\frmPrikazUplata.resx">
+      <DependentUpon>frmPrikazUplata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uplata\frmUplantnica.resx">
+      <DependentUpon>frmUplantnica.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StudentskiServis.Models\StudentskiServis.Models.csproj">
+      <Project>{f3641433-e28c-4383-ac5b-9c35bd220612}</Project>
+      <Name>StudentskiServis.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kissclipart-windows-delete-icon-clipart-computer-icons-2230528141214185.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\noPicture.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-error-flat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus-flat.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

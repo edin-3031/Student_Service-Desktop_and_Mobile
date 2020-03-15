@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels"
+             xmlns:views="clr-namespace:StudentskiServis.MobileApp.Views"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.AuthPage">
+
+    <ContentPage.BindingContext>
+        <ViewModels:AuthVM>
+            
+        </ViewModels:AuthVM>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Padding="5">
+            
+            <Label Padding="50" FontSize="50" HorizontalOptions="Center" Text="Studentski servis" />
+            
+            <Label Text="Korisničko ime"></Label>
+            <Entry Text="{Binding Username}"></Entry>
+            
+            <Label Text="Šifra"></Label>
+            <Entry IsPassword="true" Text="{Binding Password}"></Entry>
+
+            <Picker Title="Korisnička uloga" SelectedItem="{Binding SelectedVrstaProizvoda}" ItemsSource="{Binding ListaUloga}" ItemDisplayBinding="{Binding Naziv}"></Picker>
+
+            <Button Command="{Binding AuthCommand}" BackgroundColor="Gray" TextColor="White" Text="Prijava" />
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

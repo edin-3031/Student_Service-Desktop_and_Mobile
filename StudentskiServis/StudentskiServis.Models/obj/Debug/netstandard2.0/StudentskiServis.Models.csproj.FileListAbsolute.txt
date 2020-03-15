@@ -1,0 +1,38 @@
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.deps.json
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.csprojAssemblyReference.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfoInputs.cache
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfo.cs
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.deps.json
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfoInputs.cache
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfo.cs
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.dll
+C:\Users\Edin\Desktop\RSII\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.deps.json
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfoInputs.cache
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfo.cs
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.dll
+D:\Fakultet\GitHub\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.deps.json
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.csprojAssemblyReference.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfoInputs.cache
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfo.cs
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.dll
+D:\Test\School_Projects\Razvoj softvera II seminarski\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.deps.json
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.Models\bin\Debug\netstandard2.0\StudentskiServis.Models.pdb
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.csprojAssemblyReference.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfoInputs.cache
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.AssemblyInfo.cs
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.dll
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.Models\obj\Debug\netstandard2.0\StudentskiServis.Models.pdb

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Administracija"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Administracija.AdminDetaljiStudentPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:AdminDetaljiStudentVM>
+            
+        </ViewModels:AdminDetaljiStudentVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Text="Nazad" BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Command="{Binding NazadCommand}"></Button>
+                
+                <Image HeightRequest="250" WidthRequest="250" Source="{Binding Slika}"></Image>
+                
+                <Label Text="Ime" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Ime}"></Label>
+                
+                <Label Text="Prezime" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Prezime}"></Label>
+                
+                <Label Text="Indeks" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Indeks}"></Label>
+                
+                <Label Text="E-Mail" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Mail}"></Label>
+                
+                <Label Text="Korisničko ime" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding KorisnickoIme}"></Label>
+                
+                <Label Text="Datum rođenja" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding DatumRodjenja}"></Label>
+                
+                <Label Text="Datum upisa" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding DatumUpisa}"></Label>
+                
+                <Label Text="Adresa" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Adresa}"></Label>
+                
+                <Label Text="Spol" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Spol}"></Label>
+                
+                <Label Text="Telefon" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Telefon}"></Label>
+                
+                <Label Text="Status" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Status}"></Label>
+                
+                <Label Text="Način studiranja" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding NacinStudiranja}"></Label>
+                
+                <Label Text="Upisan semestar" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding UpisanSemastar}"></Label>
+
+                <Label Text="Obnavlja godinu" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding ObnavljaGodinu}"></Label>
+                
+                <Label Text="Prosječna ocjena" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Ocjena}"></Label>
+                
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

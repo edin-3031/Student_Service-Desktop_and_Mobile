@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.ObavijestiDetaljiProf">
+    <ContentPage.BindingContext>
+        <ViewModels:ObavijestiDetaljiProfVM>
+            
+        </ViewModels:ObavijestiDetaljiProfVM>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Grid>
+                <Button BackgroundColor="LightGoldenrodYellow" Command="{Binding NazadCommand}" Text="Nazad" HorizontalOptions="Start"></Button>
+                    <Button Text="Izmijeni" HorizontalOptions="End" BackgroundColor="LightBlue" Command="{Binding IzmijeniCommand}"></Button>
+                </Grid>
+                <Label BackgroundColor="LightGray" TextColor="Black" Text="Objavio"></Label>
+                <Label Text="{Binding Objavio}"></Label>
+                <Label BackgroundColor="LightGray" TextColor="Black" Text="Datum objave"></Label>
+                <Label Text="{Binding Datum}"></Label>
+                <Label BackgroundColor="LightGray" TextColor="Black" Text="Naslov"></Label>
+                <Label Text="{Binding Naslov}"></Label>
+                <Label BackgroundColor="LightGray" TextColor="Black" Text="Sadržaj"></Label>
+                <Label Text="{Binding Sadrzaj}"></Label>
+                <Button VerticalOptions="EndAndExpand" Command="{Binding UkloniCommand}" Text="Ukloni" BackgroundColor="PaleVioletRed"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.IspitIzmjenaProf">
+    <ContentPage.BindingContext>
+        <ViewModels:IspitIzmjenaProfVM>
+            
+        </ViewModels:IspitIzmjenaProfVM>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Command="{Binding nazadCommand}" BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Text="Nazad"></Button>
+                <Picker Title="Kurs" ItemsSource="{Binding listaKurseva}"></Picker>
+                <Label Text="Učionica"></Label>
+                <Entry Text="{Binding Ucionica}"></Entry>
+                <Label Text="Datum održavanja"></Label>
+                <DatePicker Date="{Binding Datum}" MinimumDate="1.1.2000."></DatePicker>
+                <Label Text="Trajanje (min)"></Label>
+                <Entry Text="{Binding Trajanje}"></Entry>
+                <Label Text="Broj pitanja"></Label>
+                <Entry Text="{Binding Pitanja}"></Entry>
+                <Label Text="maksimalno bodova"></Label>
+                <Entry Text="{Binding Bodovi}"></Entry>
+                
+                <Grid>
+                <Label VerticalOptions="Start" Padding="30" Text="Parcijalno bodovanje"></Label>
+                <CheckBox IsChecked="{Binding Parcijalno}" CheckedChanged="CheckBox_CheckedChanged"></CheckBox>
+                </Grid>
+                
+                <Button Command="{Binding SnimiCommand}" Text="Snimi" BackgroundColor="LightGreen"></Button>
+            </StackLayout>
+    </ScrollView>
+    </ContentPage.Content>
+</ContentPage>  

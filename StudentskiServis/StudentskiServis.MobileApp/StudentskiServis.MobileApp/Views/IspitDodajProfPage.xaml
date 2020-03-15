@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.IspitDodajProfPage">
+    <ContentPage.BindingContext>
+        <ViewModels:IspitDodajProfVM>
+            
+        </ViewModels:IspitDodajProfVM>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout Padding="5">
+                <Button BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Command="{Binding NazadCommand}" Text="Nazad"></Button>
+
+                <Picker Title="Kurs" ItemsSource="{Binding kurseviLista}" ItemDisplayBinding="{Binding Naziv}" SelectedItem="{Binding Izabrani}"></Picker>
+
+            <Label Text="Datum održavanja"></Label>
+            <DatePicker MinimumDate="1.1.2000." Date="{Binding DatumOdrzavanja}"></DatePicker>
+            
+            <Label Text="Učionica"></Label>
+            <Entry Placeholder="Učionica" Text="{Binding Ucionica}"></Entry>
+            
+            <Label Text="Trajanje ispita (min)"></Label>
+            <Entry Placeholder="Trajanje ispita (min)" Text="{Binding Trajanje}"></Entry>    
+            
+            <Label Text="Maksimalno bodova"></Label>
+            <Entry Placeholder="Maksimalno bodova" Text="{Binding Bodovi}"></Entry>    
+            
+            <Label Text="Broj pitanja"></Label>
+            <Entry Placeholder="Broj pitanja" Text="{Binding Pitanja}"></Entry>
+                <Grid HorizontalOptions="Center">
+                    <Label Text="Parcijalno bodovanje" Padding="35"></Label><CheckBox CheckedChanged="CheckBox_CheckedChanged" IsChecked="False"></CheckBox>
+                </Grid>
+                <Button BackgroundColor="LightGreen" Text="Dodaj" Command="{Binding DodajCommand}"></Button>
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

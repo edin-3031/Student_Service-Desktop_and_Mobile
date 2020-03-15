@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Student"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Student.StudProfPrikazPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:StudProfPrikazVM>
+            
+        </ViewModels:StudProfPrikazVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button HorizontalOptions="Start" Text="Nazad" BackgroundColor="LightGoldenrodYellow" Command="{Binding NazadCommand}"></Button>
+                <ListView ItemsSource="{Binding lista}" ItemSelected="ListView_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label HeightRequest="2" BackgroundColor="Black"></Label>
+                                    <Grid>
+                                        <Label Text="Zvanje" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding Zvanje}" HorizontalOptions="Center" FontSize="20" TextColor="Black"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label Text="Ime" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding Ime}" HorizontalOptions="Center" FontSize="20" TextColor="Black"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label Text="Prezime" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding Prezime}" HorizontalOptions="Center" FontSize="20" TextColor="Black"></Label>
+                                    </Grid>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

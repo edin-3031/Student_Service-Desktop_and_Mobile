@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Student"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Student.StudMojeUplatePrikazPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:StudMojeUplatePrikazVM>
+            
+        </ViewModels:StudMojeUplatePrikazVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button HorizontalOptions="Start" BackgroundColor="LightGoldenrodYellow" Text="Nazad" Command="{Binding Nazad_Command}"></Button>
+                <ListView ItemsSource="{Binding listaUplata}" ItemSelected="ListView_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label BackgroundColor="Black" HeightRequest="2"></Label>
+                                    <Grid>
+                                        <Label Text="Svrha" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding Svrha}" FontSize="20" HorizontalOptions="Center"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label Text="Datum uplate" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding DatumUplate}" FontSize="20" HorizontalOptions="Center"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label Text="Iznos" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding Iznos}" FontSize="20" HorizontalOptions="Center"></Label>
+                                    </Grid>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

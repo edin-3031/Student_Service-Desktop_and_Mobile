@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Administracija"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Administracija.AdminPrikazKursevaPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:AdminPrikazKursevaVM>
+            
+        </ViewModels:AdminPrikazKursevaVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Text="Nazad" BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Command="{Binding NazadCommand}"></Button>
+
+                <ListView ItemsSource="{Binding listaKurseva}" HeightRequest="600" ItemSelected="ListView_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label HeightRequest="2" BackgroundColor="Black"></Label>
+                                    <Grid>
+                                        <Label Text="Naziv" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding Naziv}" FontSize="20" TextColor="Black" HorizontalOptions="Center"></Label>
+                                    </Grid>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <Button Text="Dodaj" Command="{Binding DodajCommand}" BackgroundColor="LightGreen"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

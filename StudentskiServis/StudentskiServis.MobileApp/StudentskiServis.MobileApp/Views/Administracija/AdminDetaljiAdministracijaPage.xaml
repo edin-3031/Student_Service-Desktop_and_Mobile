@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Administracija"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Administracija.AdminDetaljiAdministracijaPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:AdminDetaljiAdministracijaVM>
+            
+        </ViewModels:AdminDetaljiAdministracijaVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Text="Nazad" BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Command="{Binding NazadCommand}"></Button>
+
+                <Image Source="{Binding Slika}" HorizontalOptions="Center" HeightRequest="250" WidthRequest="250"></Image>
+
+                <Label Text="Ime" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Ime}"></Label>
+            <Label Text="Prezime" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Prezime}"></Label>
+            <Label Text="E-Mail" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Mail}"></Label>
+            <Label Text="Kancelarija" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Kancelarija}"></Label>
+            <Label Text="Datum rođenja" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding DatumRodjenja}"></Label>
+            <Label Text="Datum zaposlenja" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding DatumZaposlenja}"></Label>
+            <Label Text="Adresa" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Adresa}"></Label>
+            <Label Text="Spol" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Spol}"></Label>
+            <Label Text="Staž" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Staz}"></Label>
+            <Label Text="Vrsta ugovora" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Ugovor}"></Label>
+            
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

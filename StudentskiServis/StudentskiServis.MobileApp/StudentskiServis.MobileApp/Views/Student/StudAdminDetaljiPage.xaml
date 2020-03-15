@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Student"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Student.StudAdminDetaljiPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:StudAdminDetaljiVM>
+            
+        </ViewModels:StudAdminDetaljiVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Text="Nazad" HorizontalOptions="Start" BackgroundColor="LightGoldenrodYellow" Command="{Binding NazadCommand}"></Button>
+
+                <Image Source="{Binding Slika}" HeightRequest="250" WidthRequest="250" HorizontalOptions="Center"></Image>
+                <Label Text="Ime" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Ime}"></Label>
+                <Label Text="Prezime" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Prezime}"></Label>
+                <Label Text="Mail" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Mail}"></Label>
+                <Label Text="Kancelarija" BackgroundColor="LightGray"></Label>
+                <Label Text="{Binding Kancelarija}"></Label>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,1 @@
+D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\StudentskiServis.MobileApp.UWP.csproj;x86

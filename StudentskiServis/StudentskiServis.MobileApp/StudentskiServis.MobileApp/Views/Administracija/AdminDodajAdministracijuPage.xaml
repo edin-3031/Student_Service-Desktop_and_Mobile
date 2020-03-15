@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Administracija"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Administracija.AdminDodajAdministracijuPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:AdminDodajAdministracijuVM>
+            
+        </ViewModels:AdminDodajAdministracijuVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button Text="Nazad" BackgroundColor="LightGoldenrodYellow" HorizontalOptions="Start" Command="{Binding NazadCommand}"></Button>
+
+                <Label Text="Ime"></Label>
+                <Entry Text="{Binding Ime}"></Entry>
+                
+                <Label Text="Prezime"></Label>
+                <Entry Text="{Binding Prezime}"></Entry>
+                
+                <Label Text="E-Mail"></Label>
+                <Entry Text="{Binding Mail}"></Entry>
+                
+                <Label Text="Kancelarija"></Label>
+                <Entry Text="{Binding Kancelarija}"></Entry>
+                
+                <Label Text="Korisničko ime"></Label>
+                <Entry Text="{Binding KorisnickoIme}"></Entry>
+                
+                <Label Text="Datum rođenja"></Label>
+                <DatePicker Date="{Binding DatumRodjenja}"></DatePicker>
+                
+                <Label Text="Datum zaposlenja"></Label>
+                <DatePicker Date="{Binding DatumZaposlenja}"></DatePicker>
+                
+                <Label Text="Adresa"></Label>
+                <Entry Text="{Binding Adresa}"></Entry>
+
+                <Label Text="Spol"></Label>
+                <Picker ItemsSource="{Binding listaSpol}" SelectedIndexChanged="Picker_SelectedIndexChanged"></Picker>
+
+                <Label Text="Staž"></Label>
+                <Entry Text="{Binding Staz}"></Entry>
+
+                <Label Text="Vrsta ugovora"></Label>
+                <Entry Text="{Binding Ugovor}"></Entry>
+
+                <Label Text="Šifra"></Label>
+                <Entry Text="{Binding Sifra}" IsPassword="True"></Entry>
+                
+                <Label Text="Potvrda Šifre"></Label>
+                <Entry Text="{Binding SifraPotvrda}" IsPassword="True" ></Entry>
+
+                <Button Text="Snimi" BackgroundColor="LightGreen" Command="{Binding SnimiCommand}"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

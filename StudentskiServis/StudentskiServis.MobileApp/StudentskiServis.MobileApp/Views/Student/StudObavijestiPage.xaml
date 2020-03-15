@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Student"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Student.StudObavijestiPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:StudObavijestiVM>
+            
+        </ViewModels:StudObavijestiVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button BackgroundColor="LightGoldenrodYellow" Command="{Binding NazadCommand}" Text="Nazad" HorizontalOptions="Start"></Button>
+                <ListView ItemsSource="{Binding _listaObavijesti}" ItemSelected="ListView_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label BackgroundColor="Black" HeightRequest="2"></Label>
+                                    <Grid>
+                                        <Label Text="Naslov" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding Naslov}" FontSize="20" HorizontalOptions="Center"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label Text="Datum objave" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding DatumObjave}" FontSize="20" HorizontalOptions="Center"></Label>
+                                    </Grid>
+                                    <Grid>
+                                        <Label Text="Objavio" HorizontalOptions="Start"></Label>
+                                        <Label Text="{Binding Objavio}" FontSize="20" HorizontalOptions="Center"></Label>
+                                    </Grid>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

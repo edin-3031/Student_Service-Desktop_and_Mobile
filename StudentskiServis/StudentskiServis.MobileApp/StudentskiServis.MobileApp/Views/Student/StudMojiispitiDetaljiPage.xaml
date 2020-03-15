@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:StudentskiServis.MobileApp.ViewModels.Student"
+             mc:Ignorable="d"
+             x:Class="StudentskiServis.MobileApp.Views.Student.StudMojiispitiDetaljiPage">
+    <!--<ContentPage.BindingContext>
+        <ViewModels:StudMojiispitiDetaljiVM>
+            
+        </ViewModels:StudMojiispitiDetaljiVM>
+    </ContentPage.BindingContext>-->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="5">
+                <Button HorizontalOptions="Start" Command="{Binding NazadCommand}" BackgroundColor="LightGoldenrodYellow" Text="Nazad"></Button>
+                <Label BackgroundColor="LightGray" Text="Kurs"></Label>
+                <Label Text="{Binding Kurs}"></Label>
+                <Label BackgroundColor="LightGray" Text="Datum održavanja"></Label>
+                <Label Text="{Binding Datum}"></Label>
+                <Label BackgroundColor="LightGray" Text="Učionica"></Label>
+                <Label Text="{Binding Ucionica}"></Label>
+                <Label BackgroundColor="LightGray" Text="Objavio"></Label>
+                <Label Text="{Binding Objavio}"></Label>
+                <Label BackgroundColor="LightGray" Text="Broj pitanja"></Label>
+                <Label Text="{Binding Pitanja}"></Label>
+                <Label BackgroundColor="LightGray" Text="Maksimalno bodova"></Label>
+                <Label Text="{Binding Bodovi}"></Label>
+                <Label BackgroundColor="LightGray" Text="Trajanje"></Label>
+                <Label Text="{Binding Trajanje}"></Label>
+                <Grid>
+                    <CheckBox HorizontalOptions="FillAndExpand" IsChecked="{Binding Parcijalno}"></CheckBox>
+                    <Label HorizontalOptions="FillAndExpand" Padding="40" Text="Parcijalno bodovanje"></Label>
+                </Grid>
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
