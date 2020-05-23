@@ -77,7 +77,7 @@ namespace StudentskiServis.WebAPI.Services
 
             if (_Student == null && _Administracija == null && _Profesor == null)
             {
-                throw new NullReferenceException();
+                return null;
             }
 
 
@@ -125,7 +125,6 @@ namespace StudentskiServis.WebAPI.Services
             }
             int?[] array2 = null;
             return array2;
-            throw new NullReferenceException();
         }
     }
 }

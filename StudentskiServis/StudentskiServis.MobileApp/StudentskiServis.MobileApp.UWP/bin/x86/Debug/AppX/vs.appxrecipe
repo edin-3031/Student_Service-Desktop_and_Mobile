@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=c51adbe0-18a9-4ade-bee4-7e0ccfc9af2c</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>856E1E01C769D2ECE42C3AA80D9AE5895147F1141DBF86B1A19DD431E19CC28D</RegisteredManifestChecksum>
+    <LayoutDir>D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C4ACB6E045E40FB3D35F330B01C46E04F7BCB92BFA515F4C6ABBA220248EA47D</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>b7550fcc-c27a-4934-a097-9753c4a554bc_1.0.0.0_x86__h7nkw9wgxnbhr</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>b7550fcc-c27a-4934-a097-9753c4a554bc_h7nkw9wgxnbhr!App</RegisteredUserModeAppID>
     <RegisteredPackageID>b7550fcc-c27a-4934-a097-9753c4a554bc</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:36:18.432</Modified>
+      <Modified>2020-05-21T12:27:24.348</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\StudentskiServis.MobileApp.UWP.exe">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\StudentskiServis.MobileApp.UWP.exe">
       <PackagePath>entrypoint\StudentskiServis.MobileApp.UWP.exe</PackagePath>
-      <Modified>2020-03-15T12:36:13.064</Modified>
+      <Modified>2020-05-21T12:27:20.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\flurl\2.8.2\lib\netstandard2.0\Flurl.dll">
       <PackagePath>Flurl.dll</PackagePath>
@@ -714,7 +714,7 @@
       <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
       <Modified>2018-11-29T14:39:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
+    <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2016-11-30T01:58:38.000</Modified>
     </AppxPackagedFile>
@@ -742,15 +742,15 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2020-01-09T21:50:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.dll">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.dll">
       <PackagePath>StudentskiServis.MobileApp.dll</PackagePath>
-      <Modified>2020-03-15T12:08:52.078</Modified>
+      <Modified>2020-05-23T11:47:15.625</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.dll">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.dll">
       <PackagePath>StudentskiServis.Models.dll</PackagePath>
-      <Modified>2020-03-15T12:08:46.823</Modified>
+      <Modified>2020-05-21T12:27:07.303</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+    <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
       <Modified>2016-11-30T01:58:38.000</Modified>
     </AppxPackagedFile>
@@ -762,176 +762,176 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2020-01-09T21:50:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2020-03-15T12:05:39.122</Modified>
+      <Modified>2020-05-21T11:49:44.109</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.081</Modified>
+      <Modified>2020-05-21T11:49:44.093</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.083</Modified>
+      <Modified>2020-05-21T11:49:44.094</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.084</Modified>
+      <Modified>2020-05-21T11:49:44.094</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.086</Modified>
+      <Modified>2020-05-21T11:49:44.095</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.087</Modified>
+      <Modified>2020-05-21T11:49:44.095</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.090</Modified>
+      <Modified>2020-05-21T11:49:44.095</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.091</Modified>
+      <Modified>2020-05-21T11:49:44.096</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.092</Modified>
+      <Modified>2020-05-21T11:49:44.097</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.094</Modified>
+      <Modified>2020-05-21T11:49:44.097</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.095</Modified>
+      <Modified>2020-05-21T11:49:44.098</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.096</Modified>
+      <Modified>2020-05-21T11:49:44.098</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.098</Modified>
+      <Modified>2020-05-21T11:49:44.099</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.098</Modified>
+      <Modified>2020-05-21T11:49:44.099</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.100</Modified>
+      <Modified>2020-05-21T11:49:44.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.101</Modified>
+      <Modified>2020-05-21T11:49:44.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.102</Modified>
+      <Modified>2020-05-21T11:49:44.101</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.103</Modified>
+      <Modified>2020-05-21T11:49:44.101</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.104</Modified>
+      <Modified>2020-05-21T11:49:44.102</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.105</Modified>
+      <Modified>2020-05-21T11:49:44.102</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.105</Modified>
+      <Modified>2020-05-21T11:49:44.103</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.107</Modified>
+      <Modified>2020-05-21T11:49:44.103</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.111</Modified>
+      <Modified>2020-05-21T11:49:44.104</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.112</Modified>
+      <Modified>2020-05-21T11:49:44.105</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.113</Modified>
+      <Modified>2020-05-21T11:49:44.105</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.114</Modified>
+      <Modified>2020-05-21T11:49:44.106</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.115</Modified>
+      <Modified>2020-05-21T11:49:44.106</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-15T12:05:39.116</Modified>
+      <Modified>2020-05-21T11:49:44.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\xamarin_logo.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\xamarin_logo.png">
       <PackagePath>xamarin_logo.png</PackagePath>
-      <Modified>2020-03-15T12:05:40.882</Modified>
+      <Modified>2020-05-21T11:49:44.981</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\add.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\add.png">
       <PackagePath>add.png</PackagePath>
-      <Modified>2020-03-15T12:05:39.124</Modified>
+      <Modified>2020-05-21T11:49:44.110</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\save.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\save.png">
       <PackagePath>save.png</PackagePath>
-      <Modified>2020-03-15T12:05:40.881</Modified>
+      <Modified>2020-05-21T11:49:44.980</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\cancel.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\cancel.png">
       <PackagePath>cancel.png</PackagePath>
-      <Modified>2020-03-15T12:05:40.684</Modified>
+      <Modified>2020-05-21T11:49:44.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\StudentskiServis.MobileApp.UWP.xr.xml">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\StudentskiServis.MobileApp.UWP.xr.xml">
       <PackagePath>StudentskiServis.MobileApp.UWP.xr.xml</PackagePath>
-      <Modified>2020-03-15T12:05:40.855</Modified>
+      <Modified>2020-05-21T11:49:44.960</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf">
       <PackagePath>Microsoft.UI.Xaml\DensityStyles\Compact.xbf</PackagePath>
-      <Modified>2020-03-15T12:36:12.639</Modified>
+      <Modified>2020-05-21T12:27:19.824</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-03-15T12:36:12.640</Modified>
+      <Modified>2020-05-21T12:27:19.824</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-03-15T12:36:12.640</Modified>
+      <Modified>2020-05-21T12:27:19.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -945,13 +945,13 @@
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2019-06-07T09:59:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-03-15T12:09:06.015</Modified>
+      <Modified>2020-05-21T12:27:23.039</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Core\StudentskiServis.MobileApp.UWP.exe">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Core\StudentskiServis.MobileApp.UWP.exe">
       <PackagePath>StudentskiServis.MobileApp.UWP.exe</PackagePath>
-      <Modified>2020-03-15T12:36:18.370</Modified>
+      <Modified>2020-05-21T12:27:24.316</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -993,36 +993,36 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>ARM64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

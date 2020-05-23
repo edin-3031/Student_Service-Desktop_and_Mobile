@@ -13347,11 +13347,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.WebAPI\\StudentskiServis.WebAPI.csproj",
+      "projectUniqueName": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.WebAPI\\StudentskiServis.WebAPI.csproj",
       "projectName": "StudentskiServis.WebAPI",
-      "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.WebAPI\\StudentskiServis.WebAPI.csproj",
+      "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.WebAPI\\StudentskiServis.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Edin\\.nuget\\packages\\",
-      "outputPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.WebAPI\\obj\\",
+      "outputPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13372,11 +13372,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
-              "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj"
+            "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
+              "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj"
             },
-            "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj": {
-              "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj"
+            "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj": {
+              "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj"
             }
           }
         }
@@ -13446,7 +13446,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj": {}
+    "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj": {}
   },
   "projects": {
-    "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj": {
+    "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj",
+        "projectUniqueName": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj",
         "projectName": "StudentskiServis.MobileApp.UWP",
-        "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj",
+        "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj",
         "packagesPath": "C:\\Users\\Edin\\.nuget\\packages\\",
-        "outputPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\obj\\",
+        "outputPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
-                "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj"
+              "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
+                "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
+    "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj",
+        "projectUniqueName": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj",
         "projectName": "StudentskiServis.MobileApp",
-        "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj",
+        "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj",
         "packagesPath": "C:\\Users\\Edin\\.nuget\\packages\\",
-        "outputPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\obj\\",
+        "outputPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -123,8 +123,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj": {
-                "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj"
+              "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj": {
+                "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj"
               }
             }
           }
@@ -179,18 +179,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj": {
+    "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj",
+        "projectUniqueName": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj",
         "projectName": "StudentskiServis.Models",
-        "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj",
+        "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj",
         "packagesPath": "C:\\Users\\Edin\\.nuget\\packages\\",
-        "outputPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\obj\\",
+        "outputPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -255,7 +255,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

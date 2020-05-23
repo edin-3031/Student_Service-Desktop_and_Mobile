@@ -479,11 +479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj",
+      "projectUniqueName": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj",
       "projectName": "StudentskiServis.Models",
-      "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj",
+      "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj",
       "packagesPath": "C:\\Users\\Edin\\.nuget\\packages\\",
-      "outputPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.Models\\obj\\",
+      "outputPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -548,7 +548,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

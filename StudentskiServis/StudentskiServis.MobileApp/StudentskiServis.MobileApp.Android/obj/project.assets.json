@@ -2389,11 +2389,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.Android\\StudentskiServis.MobileApp.Android.csproj",
+      "projectUniqueName": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.Android\\StudentskiServis.MobileApp.Android.csproj",
       "projectName": "StudentskiServis.MobileApp.Android",
-      "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.Android\\StudentskiServis.MobileApp.Android.csproj",
+      "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.Android\\StudentskiServis.MobileApp.Android.csproj",
       "packagesPath": "C:\\Users\\Edin\\.nuget\\packages\\",
-      "outputPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.Android\\obj\\",
+      "outputPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2414,8 +2414,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
-              "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj"
+            "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
+              "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj"
             }
           }
         }

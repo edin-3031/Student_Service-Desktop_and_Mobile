@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=c51adbe0-18a9-4ade-bee4-7e0ccfc9af2c</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\StudentskiServis.MobileApp.UWP.exe">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\StudentskiServis.MobileApp.UWP.exe">
       <PackagePath>entrypoint\StudentskiServis.MobileApp.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\flurl\2.8.2\lib\netstandard2.0\Flurl.dll">
@@ -535,7 +535,7 @@
     <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\system.text.encoding.codepages\4.5.1\runtimes\win\lib\netstandard2.0\System.Text.Encoding.CodePages.dll">
       <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
+    <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\xam.plugin.media\4.0.1.5\lib\uap10.0.10240\Plugin.Media.dll">
@@ -556,13 +556,13 @@
     <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\xamarin.forms\4.4.0.991477\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.dll">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.MobileApp.dll">
       <PackagePath>StudentskiServis.MobileApp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.dll">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp\bin\Debug\netstandard2.0\StudentskiServis.Models.dll">
       <PackagePath>StudentskiServis.Models.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+    <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
@@ -571,139 +571,139 @@
     <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\xamarin.forms\4.4.0.991477\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\xamarin_logo.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\xamarin_logo.png">
       <PackagePath>xamarin_logo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\add.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\add.png">
       <PackagePath>add.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\save.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\save.png">
       <PackagePath>save.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\cancel.png">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\cancel.png">
       <PackagePath>cancel.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\StudentskiServis.MobileApp.UWP.xr.xml">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\StudentskiServis.MobileApp.UWP.xr.xml">
       <PackagePath>StudentskiServis.MobileApp.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf">
       <PackagePath>Microsoft.UI.Xaml\DensityStyles\Compact.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
@@ -715,10 +715,10 @@
     <AppxPackagedFile Include="C:\Users\Edin\.nuget\packages\microsoft.ui.xaml\2.1.190606001\build\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ForRelease\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Core\StudentskiServis.MobileApp.UWP.exe">
+    <AppxPackagedFile Include="D:\Fakultet\GitHub\RS2\StudentskiServis\StudentskiServis.MobileApp\StudentskiServis.MobileApp.UWP\bin\x86\Debug\Core\StudentskiServis.MobileApp.UWP.exe">
       <PackagePath>StudentskiServis.MobileApp.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
@@ -757,33 +757,33 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>ARM64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27323.0</Version>
+      <Version>14.0.27810.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrWJdNjqVifZNPnsYxWukqje+zoM7g2Lu75eWrcFrP4cfsNAsbxHFp2KoQfIU25TS+ScNQbZRdGjh51hXiK7Zw==",
+  "success": true,
+  "projectFilePath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.Models\\StudentskiServis.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edin\\.nuget\\packages\\flurl\\2.8.2\\flurl.2.8.2.nupkg.sha512",
+    "C:\\Users\\Edin\\.nuget\\packages\\flurl.http\\2.4.2\\flurl.http.2.4.2.nupkg.sha512",
+    "C:\\Users\\Edin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Edin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Edin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Edin\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Edin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Edin\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

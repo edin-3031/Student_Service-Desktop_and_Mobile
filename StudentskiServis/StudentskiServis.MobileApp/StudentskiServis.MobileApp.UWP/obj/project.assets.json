@@ -9541,11 +9541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj",
+      "projectUniqueName": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj",
       "projectName": "StudentskiServis.MobileApp.UWP",
-      "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj",
+      "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\StudentskiServis.MobileApp.UWP.csproj",
       "packagesPath": "C:\\Users\\Edin\\.nuget\\packages\\",
-      "outputPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\obj\\",
+      "outputPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9567,8 +9567,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
-              "projectPath": "D:\\ForRelease\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj"
+            "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj": {
+              "projectPath": "D:\\Fakultet\\GitHub\\RS2\\StudentskiServis\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp\\StudentskiServis.MobileApp.csproj"
             }
           }
         }
